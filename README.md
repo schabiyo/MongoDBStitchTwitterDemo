@@ -17,23 +17,15 @@ So what are we trying to demo here?
 
 ## Deploy EmpBook
 
-First, you need a running mongoDB instance.
+Follow the instruction here to run the EmpBook application: https://github.com/schabiyo/EmpBook.git
+**NOTE:** At the moment Stitch is only supported with Atlas, so please configure the EmpBook application with a mongoDB running in Atlas.
 
-```
-git clone https://github.com/schabiyo/EmpBook.git
-cd 
 
-```
+Create the Stitch functions
+----------------
 
-Then change the configuration file to point to your running mongoDB instance.
-If you are pointing to a local MongoGB, the configuration should look like this:
 
-Then start the application by running the following command:
 
- ```
- mvn spring-boot:run
-
- ```
 
 Start the SocialRewarder application
 ----------------
