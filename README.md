@@ -1,10 +1,8 @@
-# MongoDBStitchTwitterDemo
-
 # A demo showcasing MongoDB (Atlas), Stitch and the new MongoDB Change Stream available in 3.6
 
-More information on Atlas here: https://www.mongodb.com/cloud/atlas
-More information on Stitch: https://www.mongodb.com/cloud/stitch
-More information on Change Stream here: https://docs.mongodb.com/manual/changeStreams/
+* More information on Atlas here: https://www.mongodb.com/cloud/atlas
+* More information on Stitch: https://www.mongodb.com/cloud/stitch
+* More information on Change Stream here: https://docs.mongodb.com/manual/changeStreams/
 
 
 
